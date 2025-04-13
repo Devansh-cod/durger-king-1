@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+  <!DOCTYPE html>
 <html class="light" style="--tg-viewport-height:100vh; --tg-viewport-stable-height:100vh;" data-lt-installed="true"
       lang="en">
 <script>(function () {
